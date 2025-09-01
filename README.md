@@ -1,2 +1,0 @@
-# PassOP
-manage your passwords
